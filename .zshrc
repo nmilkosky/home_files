@@ -1,3 +1,11 @@
+# -- nate's settings --
+# image in kitty terms
+alias icat="kitty +kitten icat --align left"
+
+PATH="/usr/local/go/bin:$HOME/.local/bin:$HOME/bin:$PATH"
+export PATH
+# -- end nate's settings --
+
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
