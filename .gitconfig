@@ -1,0 +1,5 @@
+[diff]
+    tool = diff
+    guitool = kdiff3
+[pager]
+        diff = false
